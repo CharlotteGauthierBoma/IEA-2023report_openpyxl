@@ -1,7 +1,7 @@
 # IEA-report
 This is an excel report made from IEA data with openpyxl python package. 
 
-# Projet Traiter des fichiers Excel avec Python
+# Projet Créer des rapports excel avec Python
 
 ## Etude et support de travail
 Ce projet se porte sur les ventes de véhicules électriques depuis 2011 à 2035 à l'aide de projections basées sur les engagements des pays et des régions à l'instar de l'Europe.Pour étudier ce sujet, j'ai importé des données fournis par l'International Energy Agency (IEA) ainsi que des données géographiques sur Kaggle listant pour chaque pays, le nom de son continent et si oui ou non il fait parti de l'ONU.
