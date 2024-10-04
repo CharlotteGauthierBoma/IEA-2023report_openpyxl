@@ -11,10 +11,11 @@ Toutefois il doit permettre à des personnes non initiés de comprendre le sujet
 ## Analyse
 
 Les tableaux de bord analysent pour chaque année entre autres : 
-- les ventes de véhicules des régions (EV sales)
+- les ventes de véhicules des régions (*EV sales)
 - la circulation de véhicules électriques dans ces régions. (EV stock)
 - le rapport entre les ventes et la circulation des véhciules électriques dans les différentes régions 
 
+*EV : Electric Vehicles
 
 ## Méthodologie
 
