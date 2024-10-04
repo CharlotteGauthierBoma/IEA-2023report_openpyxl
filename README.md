@@ -21,6 +21,6 @@ Les tableaux de bord analysent pour chaque année entre autres :
 Nous avons choisi pour ce projet d'utiliser la librairie Openpyxl pour la création et le travail sur des fichiers excels. Les avantages de cette librairie sont de supporter de nombreuses fonctionnalités d'excel dont la mise en forme, la création de feuilles ainsi que l'utilisation de nombreuses formules, comme on peut le voir dans les bibliothèques téléchargées ci-dessous.
 Par ailleurs les sources de documentation d'Openpyxl ont été de façon exhaustive : 
 - Documentation officielle de la librairie : https://openpyxl.readthedocs.io/en/stable/
-- Tutoriel d'un blogueur ?? : https://realpython.com/openpyxl-excel-spreadsheets-python/
+- Tutoriel d'un blogueur : https://realpython.com/openpyxl-excel-spreadsheets-python/
 - GeeksforGeeks : https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-2/
 - un blog japonais : https://www.shibutan-bloomers.com/python_libraly_openpyxl-11_en/5845/
